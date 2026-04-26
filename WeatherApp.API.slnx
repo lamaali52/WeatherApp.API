@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../WeatherApp.MVC/WeatherApp.MVC/WeatherApp.MVC.csproj" />
+  <Project Path="WeatherAppassignment.API/WeatherApp.API.csproj" />
+</Solution>

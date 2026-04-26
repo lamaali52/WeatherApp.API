@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "WeatherAppassignment.API\\WeatherApp.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\WeatherApp.MVC\\WeatherApp.MVC\\WeatherApp.MVC.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

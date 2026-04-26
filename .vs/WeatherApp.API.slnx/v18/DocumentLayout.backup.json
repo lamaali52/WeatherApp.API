@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wivxz\\source\\repos\\WeatherAppassignment.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C95380E-0287-1820-B932-54CE61B4FE79}|..\\WeatherApp.MVC\\WeatherApp.MVC\\WeatherApp.MVC.csproj|c:\\users\\wivxz\\source\\repos\\weatherapp.mvc\\weatherapp.mvc\\views\\history\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C95380E-0287-1820-B932-54CE61B4FE79}|..\\WeatherApp.MVC\\WeatherApp.MVC\\WeatherApp.MVC.csproj|c:\\users\\wivxz\\source\\repos\\weatherapp.mvc\\weatherapp.mvc\\views\\weather\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95404F92-B855-0ECA-7787-8F4E3E555C06}|WeatherAppassignment.API\\WeatherApp.API.csproj|c:\\users\\wivxz\\source\\repos\\weatherappassignment.api\\weatherappassignment.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95404F92-B855-0ECA-7787-8F4E3E555C06}|WeatherAppassignment.API\\WeatherApp.API.csproj|solutionrelative:weatherappassignment.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95404F92-B855-0ECA-7787-8F4E3E555C06}|WeatherAppassignment.API\\WeatherApp.API.csproj|c:\\users\\wivxz\\source\\repos\\weatherappassignment.api\\weatherappassignment.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95404F92-B855-0ECA-7787-8F4E3E555C06}|WeatherAppassignment.API\\WeatherApp.API.csproj|solutionrelative:weatherappassignment.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95404F92-B855-0ECA-7787-8F4E3E555C06}|WeatherAppassignment.API\\WeatherApp.API.csproj|c:\\users\\wivxz\\source\\repos\\weatherappassignment.api\\weatherappassignment.api\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95404F92-B855-0ECA-7787-8F4E3E555C06}|WeatherAppassignment.API\\WeatherApp.API.csproj|solutionrelative:weatherappassignment.api\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95404F92-B855-0ECA-7787-8F4E3E555C06}|WeatherAppassignment.API\\WeatherApp.API.csproj|c:\\users\\wivxz\\source\\repos\\weatherappassignment.api\\weatherappassignment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95404F92-B855-0ECA-7787-8F4E3E555C06}|WeatherAppassignment.API\\WeatherApp.API.csproj|solutionrelative:weatherappassignment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95404F92-B855-0ECA-7787-8F4E3E555C06}|WeatherAppassignment.API\\WeatherApp.API.csproj|c:\\users\\wivxz\\source\\repos\\weatherappassignment.api\\weatherappassignment.api\\models\\weathersearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95404F92-B855-0ECA-7787-8F4E3E555C06}|WeatherAppassignment.API\\WeatherApp.API.csproj|solutionrelative:weatherappassignment.api\\models\\weathersearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95404F92-B855-0ECA-7787-8F4E3E555C06}|WeatherAppassignment.API\\WeatherApp.API.csproj|c:\\users\\wivxz\\source\\repos\\weatherappassignment.api\\weatherappassignment.api\\weatherapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{95404F92-B855-0ECA-7787-8F4E3E555C06}|WeatherAppassignment.API\\WeatherApp.API.csproj|solutionrelative:weatherappassignment.api\\weatherapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95404F92-B855-0ECA-7787-8F4E3E555C06}|WeatherAppassignment.API\\WeatherApp.API.csproj|c:\\users\\wivxz\\source\\repos\\weatherappassignment.api\\weatherappassignment.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{95404F92-B855-0ECA-7787-8F4E3E555C06}|WeatherAppassignment.API\\WeatherApp.API.csproj|solutionrelative:weatherappassignment.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\wivxz\\source\\repos\\WeatherApp.MVC\\WeatherApp.MVC\\Views\\History\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\WeatherApp.MVC\\WeatherApp.MVC\\Views\\History\\Index.cshtml",
+              "ToolTip": "C:\\Users\\wivxz\\source\\repos\\WeatherApp.MVC\\WeatherApp.MVC\\Views\\History\\Index.cshtml",
+              "RelativeToolTip": "..\\WeatherApp.MVC\\WeatherApp.MVC\\Views\\History\\Index.cshtml",
+              "ViewState": "AgIAAL4BAAAAAAAAAAAkwNsBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-26T20:40:13.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\wivxz\\source\\repos\\WeatherApp.MVC\\WeatherApp.MVC\\Views\\Weather\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\WeatherApp.MVC\\WeatherApp.MVC\\Views\\Weather\\Index.cshtml",
+              "ToolTip": "C:\\Users\\wivxz\\source\\repos\\WeatherApp.MVC\\WeatherApp.MVC\\Views\\Weather\\Index.cshtml",
+              "RelativeToolTip": "..\\WeatherApp.MVC\\WeatherApp.MVC\\Views\\Weather\\Index.cshtml",
+              "ViewState": "AgIAAHIBAAAAAAAAAAAIwJABAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-26T20:35:11.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\wivxz\\source\\repos\\WeatherAppassignment.API\\WeatherAppassignment.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WeatherAppassignment.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\wivxz\\source\\repos\\WeatherAppassignment.API\\WeatherAppassignment.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WeatherAppassignment.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T20:28:43.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherController.cs",
+              "DocumentMoniker": "C:\\Users\\wivxz\\source\\repos\\WeatherAppassignment.API\\WeatherAppassignment.API\\Controllers\\WeatherController.cs",
+              "RelativeDocumentMoniker": "WeatherAppassignment.API\\Controllers\\WeatherController.cs",
+              "ToolTip": "C:\\Users\\wivxz\\source\\repos\\WeatherAppassignment.API\\WeatherAppassignment.API\\Controllers\\WeatherController.cs",
+              "RelativeToolTip": "WeatherAppassignment.API\\Controllers\\WeatherController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T15:44:48.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\wivxz\\source\\repos\\WeatherAppassignment.API\\WeatherAppassignment.API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WeatherAppassignment.API\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\wivxz\\source\\repos\\WeatherAppassignment.API\\WeatherAppassignment.API\\Models\\User.cs",
+              "RelativeToolTip": "WeatherAppassignment.API\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T15:18:35.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wivxz\\source\\repos\\WeatherAppassignment.API\\WeatherAppassignment.API\\Program.cs",
+              "RelativeDocumentMoniker": "WeatherAppassignment.API\\Program.cs",
+              "ToolTip": "C:\\Users\\wivxz\\source\\repos\\WeatherAppassignment.API\\WeatherAppassignment.API\\Program.cs",
+              "RelativeToolTip": "WeatherAppassignment.API\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T15:46:59.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherSearch.cs",
+              "DocumentMoniker": "C:\\Users\\wivxz\\source\\repos\\WeatherAppassignment.API\\WeatherAppassignment.API\\Models\\WeatherSearch.cs",
+              "RelativeDocumentMoniker": "WeatherAppassignment.API\\Models\\WeatherSearch.cs",
+              "ToolTip": "C:\\Users\\wivxz\\source\\repos\\WeatherAppassignment.API\\WeatherAppassignment.API\\Models\\WeatherSearch.cs",
+              "RelativeToolTip": "WeatherAppassignment.API\\Models\\WeatherSearch.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA3wAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T15:23:29.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\wivxz\\source\\repos\\WeatherAppassignment.API\\WeatherAppassignment.API\\appsettings.json",
+              "RelativeDocumentMoniker": "WeatherAppassignment.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\wivxz\\source\\repos\\WeatherAppassignment.API\\WeatherAppassignment.API\\appsettings.json",
+              "RelativeToolTip": "WeatherAppassignment.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-26T12:52:50.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherApp.API",
+              "DocumentMoniker": "C:\\Users\\wivxz\\source\\repos\\WeatherAppassignment.API\\WeatherAppassignment.API\\WeatherApp.API.csproj",
+              "RelativeDocumentMoniker": "WeatherAppassignment.API\\WeatherApp.API.csproj",
+              "ToolTip": "C:\\Users\\wivxz\\source\\repos\\WeatherAppassignment.API\\WeatherAppassignment.API\\WeatherApp.API.csproj",
+              "RelativeToolTip": "WeatherAppassignment.API\\WeatherApp.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-26T12:40:05.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
